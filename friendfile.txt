@@ -1,0 +1,10 @@
+person	Jane	F
+person	Jill	F
+person	Kara	F
+person	Bob	M
+person	Carson	M
+friendship	Jane	Jill	1990	2
+friendship	Jill	Bob	1997	4
+friendship	Jane	Bob	2010	8
+friendship	Kara	Jill	1999	11
+friendship	Carson	Jane	2005	3
